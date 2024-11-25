@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+nav{
+    height: 67px;
+}
+section{
+    height: 1016px;
+}

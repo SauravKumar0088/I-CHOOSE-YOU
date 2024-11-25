@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="200" height="200">
+  <!-- Background Circle -->
+  <circle cx="256" cy="256" r="200" fill="#ffcb05" stroke="#3d7dca" stroke-width="10" />
+  
+  <!-- Top Half of Pokéball -->
+  <path d="M56,256A200,200 0 0,1 456,256" fill="#fff" stroke="#3d7dca" stroke-width="10" />
+  
+  <!-- Bottom Half of Pokéball -->
+  <path d="M56,256A200,200 0 0,0 456,256" fill="#c8102e" stroke="#3d7dca" stroke-width="10" />
+  
+  <!-- Button Circle -->
+  <circle cx="256" cy="256" r="70" fill="#fff" stroke="#3d7dca" stroke-width="10" />
+  
+  <!-- Inner Circle -->
+  <circle cx="256" cy="256" r="50" fill="#c8102e" />
+  
+  <!-- Logo Text -->
+  <text x="50%" y="70%" font-size="36" fill="#3d7dca" font-family="Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">Pokémon</text>
+</svg>
